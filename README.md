@@ -1,6 +1,6 @@
 # Metex
 
-**TODO: Add description**
+Weather Application exercise on OTP Behaviours from 'The Little Elixir & OTP Guidebook'
 
 ## Installation
 
